@@ -1,0 +1,25 @@
+{
+  "name": "adminAcademy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.1",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.9.1",
+    "iview": "^3.5.4",
+    "nuxt": "^2.15.3",
+    "vue-drag-drop": "^1.1.4",
+    "vue-draggable-resizable": "^2.3.0",
+    "vue-json-viewer": "^2.2.19",
+    "vue-plyr": "^7.0.0",
+    "vue-quill-editor": "^3.0.6"
+  },
+  "devDependencies": {}
+}

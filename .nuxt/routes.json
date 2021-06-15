@@ -1,0 +1,100 @@
+[
+  {
+    "name": "add_blog",
+    "path": "/add_blog",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\add_blog.vue",
+    "chunkName": "pages/add_blog",
+    "_name": "_aeeaea9e"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_35ff6153"
+  },
+  {
+    "name": "blog_tags",
+    "path": "/blog_tags",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\blog_tags.vue",
+    "chunkName": "pages/blog_tags",
+    "_name": "_3e46b1b5"
+  },
+  {
+    "name": "forgetPassword",
+    "path": "/forgetPassword",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\forgetPassword.vue",
+    "chunkName": "pages/forgetPassword",
+    "_name": "_2cd6f719"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_284caef0"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_573e7d08"
+  },
+  {
+    "name": "questions",
+    "path": "/questions",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\questions.vue",
+    "chunkName": "pages/questions",
+    "_name": "_79a2e628"
+  },
+  {
+    "name": "reset_pass",
+    "path": "/reset_pass",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\reset_pass.vue",
+    "chunkName": "pages/reset_pass",
+    "_name": "_5695a71c"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\users.vue",
+    "chunkName": "pages/users",
+    "_name": "_679bdfa7"
+  },
+  {
+    "name": "course-add_course",
+    "path": "/course/add_course",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\course\\\\add_course.vue",
+    "chunkName": "pages/course/add_course",
+    "_name": "_eeeebcf6"
+  },
+  {
+    "name": "course-course_list",
+    "path": "/course/course_list",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\course\\\\course_list.vue",
+    "chunkName": "pages/course/course_list",
+    "_name": "_0adfa734"
+  },
+  {
+    "name": "course-id",
+    "path": "/course/:id?",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\course\\\\_id.vue",
+    "chunkName": "pages/course/_id",
+    "_name": "_2ca9e844"
+  },
+  {
+    "name": "edit-id",
+    "path": "/edit/:id?",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\edit\\\\_id.vue",
+    "chunkName": "pages/edit/_id",
+    "_name": "_54fcfee2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "H:\\\\New folder\\\\demo_admin_pannel\\\\admin_front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_22320571"
+  }
+]
